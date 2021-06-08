@@ -21,7 +21,8 @@ double angle(double x, double y)
 		return 0;
 	return pi;
 }
-
+// 添加了一行
+// 添加了两行
 int cross(double xa, double ya, double xb, double yb, double xc, double yc, double xd, double yd)     
 {
 	double cra, crb;
